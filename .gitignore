@@ -1,0 +1,14 @@
+models/
+logs/
+outputs/
+*.joblib
+*.pkl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.claude/
+.env

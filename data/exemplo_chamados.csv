@@ -1,0 +1,51 @@
+Origem,Assunto,Mensagem,Departamento,Categoria
+Email,Problema de login,Não consigo acessar o sistema com minha senha atual. Já tentei resetar mas não recebo o email.,TI,Acesso
+Painel,Solicitação de férias,Gostaria de solicitar 15 dias de férias para o mês de dezembro. Preciso viajar com minha família.,RH,Benefícios
+API,Erro 500 na integração,O sistema está retornando erro interno do servidor ao tentar conectar com a API de pagamentos.,TI,Sistema
+Email,Reembolso de viagem,Solicito reembolso das despesas da viagem a São Paulo para reunião com cliente. Total de R$ 1.250.,Financeiro,Reembolso
+Painel,Treinamento de vendas,Quando será o próximo treinamento de técnicas de vendas? Tenho interesse em participar.,RH,Desenvolvimento
+Email,Internet lenta,A conexão de internet está muito lenta no escritório desde ontem. Dificulta muito o trabalho.,TI,Infraestrutura
+API,Falha na autenticação,A integração com o sistema externo parou de funcionar. Retorna erro de autenticação inválida.,TI,Integração
+Email,Contra-cheque atrasado,Ainda não recebi meu contra-cheque deste mês. Podem verificar e enviar por favor?,RH,Folha de Pagamento
+Painel,Novo computador,Preciso de um computador novo pois o atual está muito antigo e lento para as tarefas diárias.,TI,Hardware
+Email,Mudança de endereço,Preciso atualizar meu endereço residencial no sistema. Mudei de casa mês passado.,RH,Cadastro
+API,Timeout nas requisições,As chamadas para a API estão demorando muito e dando timeout frequentemente.,TI,Performance
+Email,Licença de software,Preciso de uma licença do Microsoft Office para meu computador de trabalho.,TI,Software
+Painel,Plano de saúde,Gostaria de informações sobre inclusão de dependentes no plano de saúde da empresa.,RH,Benefícios
+Email,Nota fiscal incorreta,A nota fiscal emitida para o cliente XYZ está com valor incorreto. Precisa ser cancelada.,Financeiro,Faturamento
+Painel,Sala de reunião,Como faço para reservar a sala de reunião para próxima sexta-feira das 14h às 16h?,Administrativo,Reservas
+Email,Backup não funciona,O sistema de backup automático parou de funcionar há 3 dias. Urgente verificar.,TI,Backup
+API,Rate limit excedido,Estamos recebendo erro de rate limit excedido na API mesmo com poucas requisições.,TI,Integração
+Email,Décimo terceiro,Quando será o pagamento do décimo terceiro salário este ano?,RH,Folha de Pagamento
+Painel,Ar condicionado quebrado,O ar condicionado da sala 205 não está funcionando. Está muito quente para trabalhar.,Administrativo,Manutenção
+Email,Relatório de vendas,Preciso do relatório consolidado de vendas do último trimestre para apresentação.,Comercial,Relatórios
+Painel,Curso de inglês,A empresa oferece subsídio para curso de inglês? Tenho interesse em me inscrever.,RH,Desenvolvimento
+Email,Impressora sem toner,A impressora do segundo andar está sem toner. Precisa trocar urgente.,Administrativo,Suprimentos
+API,Dados inconsistentes,A API está retornando dados diferentes do esperado em alguns endpoints.,TI,Sistema
+Email,Atestado médico,Envio atestado médico referente aos dias 10 e 11 deste mês para justificar ausência.,RH,Ausências
+Painel,VPN não conecta,Não consigo conectar na VPN para trabalhar de casa. Erro de credenciais inválidas.,TI,Acesso
+Email,Pagamento fornecedor,O fornecedor ABC está cobrando pagamento atrasado. Podem verificar se já foi processado?,Financeiro,Contas a Pagar
+Painel,Uniforme novo,Preciso solicitar uniformes novos pois os atuais estão desgastados.,RH,Materiais
+Email,Site fora do ar,Nosso site institucional está fora do ar desde hoje cedo. Clientes estão reclamando.,TI,Sistema
+API,Versão desatualizada,A documentação da API está desatualizada. A versão atual tem endpoints diferentes.,TI,Documentação
+Email,Aumento salarial,Gostaria de agendar reunião para discutir possibilidade de aumento salarial.,RH,Remuneração
+Painel,Estacionamento,Há vagas disponíveis no estacionamento da empresa? Como solicito uma vaga?,Administrativo,Facilidades
+Email,Vírus no computador,Meu computador está com comportamento estranho. Suspeito de vírus ou malware.,TI,Segurança
+API,Certificado SSL expirado,O certificado SSL da API expirou e está causando erros de segurança.,TI,Segurança
+Email,Rescisão contratual,Preciso de informações sobre o processo de rescisão e valores a receber.,RH,Desligamento
+Painel,Material de escritório,Preciso de canetas, papel e grampeador. Como solicito material de escritório?,Administrativo,Suprimentos
+Email,Cobrança indevida,Cliente reclamando de cobrança duplicada no cartão. Verificar urgente.,Financeiro,Cobrança
+Painel,Crachá perdido,Perdi meu crachá de acesso. Como solicito segunda via?,RH,Documentos
+Email,Sistema lento,O ERP está extremamente lento hoje. Demora minutos para abrir cada tela.,TI,Performance
+API,Limite de requisições,Precisamos aumentar o limite de requisições da API para suportar o volume atual.,TI,Configuração
+Email,Vale transporte,Como faço para solicitar vale transporte? Mudei de endereço recentemente.,RH,Benefícios
+Painel,Lâmpada queimada,Várias lâmpadas queimadas no corredor do 3º andar. Está escuro e perigoso.,Administrativo,Manutenção
+Email,Acesso a pasta compartilhada,Não tenho acesso à pasta compartilhada do departamento. Preciso das permissões.,TI,Acesso
+API,Encoding incorreto,A API está retornando caracteres especiais com encoding incorreto.,TI,Sistema
+Email,Avaliação de desempenho,Quando será o período de avaliação de desempenho deste ano?,RH,Avaliação
+Painel,Cafeteira quebrada,A cafeteira da copa quebrou. Podemos solicitar conserto ou uma nova?,Administrativo,Facilidades
+Email,Erro no relatório,O relatório financeiro está com erro nos cálculos de impostos.,Financeiro,Relatórios
+API,Webhook não funciona,Os webhooks configurados não estão sendo disparados corretamente.,TI,Integração
+Email,Mudança de setor,Gostaria de solicitar transferência para o departamento de marketing.,RH,Transferência
+Painel,Telefone sem linha,O telefone da minha mesa está sem linha há dois dias.,TI,Telefonia
+Email,Despesa não aprovada,Minha solicitação de despesa foi rejeitada mas não entendi o motivo.,Financeiro,Despesas
